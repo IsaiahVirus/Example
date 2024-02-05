@@ -1,4 +1,4 @@
-
+/** lots of things for me to learn from, most of https://legacy.reactjs.org/docs/forms.html for example was very helpful */
 import React, { useState } from 'react';
 
 //barren form field
